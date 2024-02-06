@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @JMSPere, I am 24 years old and I am into music, videogames and software development either in backend or games.
+- 👋 Hi, I’m @JMSPere, I am 25 years old and I am into music, videogames and software development either in backend or games.
 - 👀 I’m interested in software developing projects, specially those regarding games or backend development.
-- 🌱 I've worked with C/C++ (even though most of it was pure C) and Java.
+- 🌱 I've worked with C/C++ (even though most of it was pure C), Java and more recently with C# and .NET (both with Framework and Core) as well as SQL and Redis.
